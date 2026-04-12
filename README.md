@@ -51,10 +51,9 @@ Python · Django · FastAPI · PostgreSQL · Redis · Celery · Docker · SQLAlc
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=suradadhanush&show_icons=true&theme=github_dark&hide_border=true)
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=suradadhanush&show_icons=true&theme=github_dark&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suradadhanush&layout=compact&theme=github_dark&hide_border=true)
-
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=suradadhanush&layout=compact&theme=github_dark&hide_border=true)
 ---
 
 ## 🔗 Links
