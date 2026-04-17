@@ -33,13 +33,15 @@ Multi-tenant anonymous grievance platform designed for Indian colleges.
 
 ---
 
-## 🧪 Open Source
+## 🧪 Open Source — OWASP PyGoat (GSoC 2026)
 
-Contributor to OWASP PyGoat (Django-based security project)
+Contributor to https://github.com/adeyosemanputra/pygoat
 
-- Identified multiple issues in codebase
-- Submitted 5 PRs (#441–#445) including bug fixes and improvements
-- Work focused on security and maintainability
+- PR #441 — Fixed Docker base image (EOL → bookworm)
+- PR #442 — Cross-platform port detection fix
+- PR #443 — Container reuse, validation, subprocess fixes + tests
+- PR #444 — WindowsError → OSError compatibility fix
+- PR #445 — Added Django security headers (XSS, HSTS, etc.)
 
 ---
 
