@@ -1,41 +1,66 @@
 # Dhanush Surada
 
-Backend Developer — Python · FastAPI · Django · PostgreSQL  
-Building systems with focus on scalability, isolation, and real-world deployment
+Backend Developer — FastAPI · Django · PostgreSQL  
+I build, debug, and deploy backend systems that work in production.
+
+---
+
+## 💼 What I Do
+
+- Fix broken FastAPI / Django backends
+- Debug API issues (auth, async bugs, deployment failures)
+- Deploy backend systems (Render, VPS, Docker)
+- Design scalable multi-tenant architectures
+
+📩 Open to freelance backend work and remote roles
 
 ---
 
 ## 🚀 Selected Work
 
-### NSRIT eSports Arena
-Live: https://nsrit-esports-arena.onrender.com
+### NSRIT eSports Arena  
+🔗 Live: https://nsrit-esports-arena.onrender.com  
 
-Full-stack tournament management platform deployed for NSRIT students.
+Full-stack tournament management platform used by NSRIT students.
 
+**What I built:**
 - Django + FastAPI backend architecture
-- Razorpay payment integration
+- Razorpay payment integration (real transactions)
 - Redis RQ background job processing
-- AWS S3 for media storage
-- Deployed on Render (production environment)
+- AWS S3 media storage
+- Production deployment on Render
+
+**Impact:**
+- Used for live tournament operations
+- Handles registrations, match flows, and payments
+- End-to-end system (auth → payments → admin panel)
 
 ---
 
-### AnonCampus
-https://github.com/suradadhanush/anoncampus
+### AnonCampus  
+🔗 https://github.com/suradadhanush/anoncampus  
 
-Multi-tenant anonymous grievance platform designed for Indian colleges.
+Multi-tenant anonymous grievance platform for Indian colleges.
 
+**What I built:**
 - Schema-per-tenant PostgreSQL isolation (strict data boundaries)
 - Async FastAPI + SQLAlchemy architecture
 - Celery + Redis background workers
-- Offline moderation pipeline (rule-based + ML)
+- NLP moderation pipeline (semantic similarity + rule-based fallback)
 - Dockerized for local and production environments
+
+**System Design Highlights:**
+- Tenant isolation at schema level (no cross-data leakage)
+- Async moderation pipeline with job scheduling
+- Privacy-first architecture (no direct identity storage)
 
 ---
 
 ## 🧪 Open Source — OWASP PyGoat (GSoC 2026)
 
-Contributor to https://github.com/adeyosemanputra/pygoat
+🔗 https://github.com/adeyosemanputra/pygoat  
+
+Contributed to a security-focused Django application.
 
 - PR #441 — Fixed Docker base image (EOL → bookworm)
 - PR #442 — Cross-platform port detection fix
@@ -47,7 +72,7 @@ Contributor to https://github.com/adeyosemanputra/pygoat
 
 ## ⚙️ Tech Stack
 
-Python · Django · FastAPI · PostgreSQL · Redis · Celery · Docker · SQLAlchemy · Git · Linux
+Python · FastAPI · Django · PostgreSQL · Redis · Celery · Docker · SQLAlchemy · Git · Linux
 
 ---
 
@@ -56,11 +81,23 @@ Python · Django · FastAPI · PostgreSQL · Redis · Celery · Docker · SQLAlc
 ![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=suradadhanush&show_icons=true&theme=github_dark&hide_border=true)
 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=suradadhanush&layout=compact&theme=github_dark&hide_border=true)
+
 ---
 
-## 🔗 Links
+## 📬 Contact
 
 - LinkedIn: https://linkedin.com/in/dhanushsurada  
 - Twitter/X: https://twitter.com/dhanush_surada  
 - GitHub: https://github.com/suradadhanush  
-- Email: suradadhanush0@gmail.com
+- Email: suradadhanush0@gmail.com  
+
+---
+
+## ⚡ Availability
+
+Available for:
+- Backend debugging (FastAPI / Django)
+- API fixes & integration issues
+- Deployment & production setup
+
+Response time: < 24 hours
