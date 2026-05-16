@@ -1,6 +1,6 @@
 # Dhanush Surada
 
-Backend Developer — FastAPI · Django · PostgreSQL  
+AI-Assisted Systems Builder — FastAPI · Django · PostgreSQL  
 I build, debug, and deploy backend systems that work in production.
 
 ---
