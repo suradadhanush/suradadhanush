@@ -96,8 +96,9 @@ Python · FastAPI · Django · PostgreSQL · Redis · Celery · Docker · SQLAlc
 ## ⚡ Availability
 
 Available for:
-- Backend debugging (FastAPI / Django)
-- API fixes & integration issues
-- Deployment & production setup
+- AI-integrated backend architecture 
+- Multi-tenant system design 
+- Production deployment & observability
+- Open to remote backend engineering and AI-tooling internships
 
 Response time: < 24 hours
