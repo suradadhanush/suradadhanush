@@ -5,14 +5,22 @@ I build, debug, and deploy backend systems that work in production.
 
 ---
 
-## 💼 What I Do
+## What I Build
 
-- Fix broken FastAPI / Django backends
-- Debug API issues (auth, async bugs, deployment failures)
-- Deploy backend systems (Render, VPS, Docker)
-- Design scalable multi-tenant architectures
+I build AI-assisted systems that solve operational problems.
 
-📩 Open to freelance backend work and remote roles
+Current focus:
+
+- Multi-tenant intelligence platforms
+- AI observability and execution tracking
+- Backend infrastructure and workflow automation
+- Production deployment pipelines
+
+Recent systems:
+
+• AnonCampus
+• TraceOps AI
+• NSRIT eSports Arena
 
 ---
 
